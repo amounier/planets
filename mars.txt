@@ -1,3 +1,5 @@
 desc = ['cold', 'red', 'rocky']
 nb_moons = 2
 size = NaN
+rover_presence = True
+livable = False
